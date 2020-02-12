@@ -1,8 +1,12 @@
 
 body {
 	font-family: 'EB Garamond', serif;
-	background-color: #fcfcfc;
+	background-color: #ffffff;
 	margin: 0 10%;
+	background-image: url("corner.png"); 
+	background-repeat: no-repeat;
+	background-position: right;
+	background-attachment: fixed;
 }
 
 h1 {
@@ -94,8 +98,6 @@ footer {
 	margin: 10px;
 	margin-left: 10px
 }
-
-
 
 
 
