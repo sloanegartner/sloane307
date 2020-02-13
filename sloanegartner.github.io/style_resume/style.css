@@ -68,8 +68,8 @@ p  {
   	font-family: 'EB Garamond', serif;
 	color: rgba(97, 103, 113);
 	text-align: left;
-	margin: 10px
-	font-size: .7em;
+	margin: 10px;
+	font-size: 1em;
 }
 
 hr {
@@ -96,7 +96,7 @@ footer {
 	color: rgba(97, 103, 113);
 	text-align: center;
 	margin: 10px;
-	margin-left: 10px
+	margin-left: 10px;
 }
 
 
